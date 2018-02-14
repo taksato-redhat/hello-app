@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="hello-ap-ejb">
+        <wb-resource deploy-path="/" source-path="/ejbModule" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/hello-ap-ejb/build/classes"/>
+        <property name="ClientProject" value="hello-ap-ejbClient"/>
+        <property name="ClientJARURI" value="hello-ap-ejbClient.jar"/>
+    </wb-module>
+</project-modules>
